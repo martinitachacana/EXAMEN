@@ -2,8 +2,10 @@
 ## Hacker cam.
 Martina Chacana
 
+[p5.js link editable](https://editor.p5js.org/martinulia/sketches/twObCoZb3)
 
-   
+
+[Archivo js en repositorio github](sketch.js)
 
 # 1. Descripción Objetiva
 ## ¿Qué es el proyecto?
@@ -99,3 +101,15 @@ El reto técnico más grande fue diseñar un videojuego interactivo con múltipl
 
 # Soluciones y aprendizajes obtenidos
 Se aprendió a optimizar la arquitectura del código mediante la reutilización de variables. Se descubrió que una variable no está atada a su nombre literal; por ejemplo, la variable cantidad (diseñada originalmente para contar círculos) puede funcionar a nivel de lógica computacional como una máquina de estados numéricos binarios o secuenciales, permitiendo estructurar un sistema complejo y dinámico bajo severas restricciones técnicas de memoria.
+
+## PROCESOS 
+![Documentación del Proceso](PROCESO1.png)
+![Documentación del Proceso](PROCESO2.png)
+![Documentación del Proceso](PROCESO3.png)
+![Documentación del Proceso](PROCESO4.png)
+![Documentación del Proceso](PROCESO5.png)
+![Documentación del Proceso](PROCESO6.png)
+![Documentación del Proceso](PROCESO7.png)
+![Documentación del Proceso](PROCESO8.png)
+![Documentación del Proceso](PROCESO9.png)
+![Documentación del Proceso](PROCESO10.png)
