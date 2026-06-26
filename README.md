@@ -7,6 +7,9 @@ Martina Chacana
 
 [Archivo js en repositorio github](sketch.js)
 
+
+[Diagrama de flujo](https://www.figma.com/board/fanClkuR2UL4re7F6BWi6R/Te-damos-la-bienvenida-a-FigJam?node-id=0-1&t=RYZ4KveQVjCY8GlO-1)
+
 # 1. Descripción Objetiva
 ## ¿Qué es el proyecto?
 Es un videojuego interactivo de supervivencia y destreza desarrollado en la plataforma p5.js. El objetivo principal es esquivar amenazas digitales (virus informáticos en forma de círculos dinámicos) para recuperar la señal del sistema y desbloquear la transmisión de la cámara web.
